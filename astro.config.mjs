@@ -24,5 +24,6 @@ export default defineConfig({
     mdx(),
     react()
   ],
-  site: 'https://andreavitaletti.github.io/blog/'
+  site: 'https://andreavitaletti.github.io',
+  base: '/blog',
 })
